@@ -7,7 +7,7 @@ description = description.replace("/latest/", "/stable/")
 setup(
     name="canopen",
     url="https://github.com/christiansandberg/canopen",
-    version="1.2.3-exo",
+    version="1.2.4",
     # use_scm_version=True,
     packages=find_packages(),
     author="Christian Sandberg",
